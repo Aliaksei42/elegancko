@@ -19,10 +19,10 @@ const Footer = () => {
           </div>
           <div className='footer__contacts'>
             <span>
-              <a href='tel:+74999998283'>+7 (499) 999-82-83</a>
+              <a href='tel:+484525372**'>+48 (452) 537-2**</a>
             </span>
             <span>
-              <a href='mailto:rostelecom.merc@rt.ru'>rostelecom.merc@rt.ru</a>
+              <a href='mailto:elegancko.merc@rt.pl'>elegancko.merc@rt.pl</a>
             </span>
             {isMedia950 && <FooterLinks />}
           </div>
@@ -52,7 +52,7 @@ const Footer = () => {
       <div className='footer__bottom'>
         <div className='container footer__bottom__container'>
           <div className='footer__copyright'>
-            © 2023 ПАО {translations[lang].footer.copyright}
+            © 2024 {translations[lang].footer.copyright}
             <br />
             (18+)
           </div>
