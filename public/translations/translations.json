@@ -335,7 +335,7 @@
     "main_page": {
         "hero_hidden_title": "Sklep odzieżowy Elegancko",
         "hero_title": "Elegancko",
-        "hero_description": "Bądź w stylu",
+        "hero_description": "To mój styl",
         "hero_subtitle": "z nową kolekcją „Line”",
         "catalog_btn": "Katalog",
         "category_title": "Kategorie",
@@ -388,7 +388,7 @@
         "price": "Cena",
         "from": "Od",
         "to": "Do",
-        "rub": "₽",
+        "rub": "zł",
         "done": "Gotowe",
         "size": "Rozmiar",
         "color": "Kolor",

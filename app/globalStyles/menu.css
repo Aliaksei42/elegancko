@@ -134,12 +134,8 @@
   transition: border-color .2s ease-in-out, color .2s ease-in-out;
 }
 
-.nav-menu__lang__btn {
-  margin-right: 25px; /* Устанавливаем расстояние между кнопками */
-}
-
-.nav-menu__lang__btn:last-child {
-  margin-right: 0; /* Убираем маржин с последней кнопки */
+.nav-menu__lang__btn + .nav-menu__lang__btn {
+  margin-left: 24px;
 }
 
 .nav-menu__lang__btn.lang-active {

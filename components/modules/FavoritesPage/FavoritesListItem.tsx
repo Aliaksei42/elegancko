@@ -126,7 +126,7 @@ const FavoritesListItem = ({ item }: { item: IFavoriteItem }) => {
             : ''}
         </span>
         <span className={styles.favorites__list__item__info__price}>
-          {formatPrice(+item.price)} ₽
+          {formatPrice(+item.price)} zł
         </span>
       </p>
     </>
