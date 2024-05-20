@@ -43,7 +43,7 @@ const PrivacyPolicyPage = () => {
                 персональных данных (далее – Политика) применяется ко всей
                 информации, которую Оператор может получить о посетителях
                 веб-сайта&nbsp;
-                <a href='https://rostelecom.ru'>https://rostelecom.ru</a>.
+                <a href='https://elegancko.pl'>https://elegancko.pl</a>.
               </li>
             </ol>
             <h3>2. Основные понятия, используемые в Политике</h3>
@@ -63,7 +63,7 @@ const PrivacyPolicyPage = () => {
                 материалов, а также программ для ЭВМ и баз данных,
                 обеспечивающих их доступность в сети интернет по сетевому
                 адресу&nbsp;
-                <a href='https://rostelecom.ru'>https://rostelecom.ru</a>;
+                <a href='https://elegancko.pl'>https://elegancko.pl</a>;
               </li>
               <li>
                 2.4. Информационная система персональных данных — совокупность
