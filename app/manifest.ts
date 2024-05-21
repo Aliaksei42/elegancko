@@ -5,7 +5,7 @@ export default function manifest(): MetadataRoute.Manifest {
     name: 'Elegancko Application',
     short_name: 'Elegancko App',
     description:
-      'Elegancko магазин одежды, аксесуаров, концелярии и сувениров',
+      'Elegancko магазин одежды, аксесуаров, канцелярии и сувениров',
     start_url: '/',
     background_color: '#fff',
     theme_color: '#fff',
